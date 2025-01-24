@@ -96,14 +96,14 @@
 			</div>
 		</div>
 
-		{#if nodes.length !== 0}
+		<!--{#if nodes.length !== 0}
 			<h2>Nodes:</h2>
 			<div class="nodes">
 				{#each nodes as node}
 					<div class="node">{node}</div>
 				{/each}
 			</div>
-		{/if}
+		{/if}-->
 
 		<div class="graph">
 			<h2>Graph</h2>
